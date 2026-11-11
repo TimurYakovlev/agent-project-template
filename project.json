@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "status": "template",
+  "name": "",
+  "purpose": "",
+  "audience": "",
+  "language": "ru",
+  "areas": [],
+  "sources": [],
+  "checks": [],
+  "review": {
+    "independent_for": []
+  },
+  "integrations": []
+}
