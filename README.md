@@ -6,7 +6,7 @@
 
 ## Быстрый старт
 
-1. Получите доступ к приватному шаблону. На GitHub нажмите **Use this template → Create a new repository**, задайте имя и выберите **Private**. Доступ к исходному шаблону есть у приглашённых участников. Новый репозиторий получает файлы шаблона без его истории изменений. [Порядок создания — в GitHub Docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+1. Шаблон публично доступен на GitHub. Нажмите **Use this template → Create a new repository**, задайте имя и выберите **Private** для личной копии. Новый репозиторий получает файлы шаблона без его истории изменений. [Порядок создания — в GitHub Docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 2. Откройте корневую папку своего репозитория в Codex или Claude Code.
 3. Напишите агенту:
 
